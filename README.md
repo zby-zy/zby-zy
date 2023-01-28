@@ -18,16 +18,16 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zynbbayrak/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/zeynebbayrak">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-lightgray?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://bitbucket.org/zynbbayrak/">
-    <img src="https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge"/>
+    <img src="https://img.shields.io/badge/Bitbucket-lightgray?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge"/>
   </a>
   <a href="https://gitlab.com/zby-zy">
-    <img src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-lightgray?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
   
 
