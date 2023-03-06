@@ -47,8 +47,8 @@
 # :fire: My Stats
 
 <div>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=zby-zy&theme=dark&background=000000" width="485">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zby-zy&layout=compact&theme=vision-friendly-dark" width="350">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=zby-zy&theme=dark&background=000000" width="515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zby-zy&layout=compact&theme=vision-friendly-dark" width="370">
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zby-zy&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zby-zy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
   
