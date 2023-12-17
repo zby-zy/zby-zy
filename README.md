@@ -15,6 +15,9 @@
   <a href="https://gitlab.com/zby-zy">
     <img src="https://img.shields.io/badge/GitLab-lightgray?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
+  <a href="https://leetcode.com/zby-zy/">
+    <img src="https://img.shields.io/badge/LeetCode-lightgray?style=for-the-badge&logo=leetcode&logoColor=white" alt="GitLab Badge"/>
+  </a>
 </div>
 
 
