@@ -1,7 +1,7 @@
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://github.com/zby-zy/zby-zy/assets/85934122/c0133af4-9e2a-4385-af09-e9f9c5b22db3)" width="300"/>
-</div>
+</div>-->
 <!--<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zynbbayrak/">
     <img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
